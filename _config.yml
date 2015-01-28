@@ -1,6 +1,6 @@
 # Site settings
 title: The Mindful Programmer
-email: hello@mindprog.com
+#email: hello@mindprog.com
 description: > # this means to ignore newlines until "baseurl:"
   Develop mindfulness with coding dojos.
 baseurl: "" # the subpath of your site, e.g. /blog/
